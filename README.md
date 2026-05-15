@@ -1,16 +1,20 @@
 # Health-care-data-sets
 ![](https://github.com/abdulsalamka2020-cloud/Health-care-data-sets/blob/main/Healthcare%20excel%20sheets%20folder/2483dec64055ddcf8baa5e2760543d48.jpg)
 
-##Introduction 
+## Introductiom
+
 This dataset was given as an assignment by IOTB Tech to practice what has been learned in class.
 
-##Tools applied:
+## Tools Applied
+
 -Excel (Data Cleaning, Pivot Tables, Pivot Charts)
 
-###Excel sheet folder
+## Excel sheet folder
+
 ![](https://github.com/abdulsalamka2020-cloud/Health-care-data-sets/blob/main/Healthcare%20excel%20sheets%20folder/healthcare_dataset.xlsx)
 
-##Problem Statement
+## Problem statements
+
 -	Which condition generates the highest revenue?
 -	Which age group visits the hospital most?
 -	Which insurance provider contributes the most financially?
@@ -23,13 +27,15 @@ This dataset was given as an assignment by IOTB Tech to practice what has been l
 -	Which month generated the highest number of admissions?
   -Most common blood type?
 
-##Data transformation and problem solving
+## Data transformations and problems solving
+
 -	Data was transformed into a table format
 -	A new column was created named “Length of Stay” calculated as (Date of Admission - Discharge date)
 -	Pivot tables was created on a new sheet to generate all the answers to the problem statement
 -Pivot Charts was created on a new sheet to visualize the results generated from the pivot tables
 
-##Key insights, interpretations and observations 
+## Key Insights, interpretation and observations 
+
 -	It was observed that “Diabetes” is the condition that generated the highest revenue, which may indicate that the medical bills for diabetes is higher compared to others or patient diagnose with diabetes is increasing as its is the second most diagnosed medical condition after arthritis
 -	Patients of age 38 visited the hospital the most which may be due to various reasons like check-ups, marriage counselling, accidents, sickness e.t.c
 -	Cigna is the insurance provider that contributed the most financially
@@ -42,7 +48,8 @@ This dataset was given as an assignment by IOTB Tech to practice what has been l
 -	It was observed that August generated the highest number of admissions
 -Most common blood type is A-
 
-##Recommendations and business suggestions
+## Recommendations and Business suggestion
+
 -	Patients with Arthritis and diabetes should be paid more attention to, more conducive facilities should be provided, drugs that can improve the conditions should be provided and discounts can be given on the bills as they are the highest conditions. All these will help improve patients care
 -	Drugs like Lipitor and Ibuprofen should be stocked more as they are generating more revenues
 -	Educative sections should be organized for patients, particularly females on different lifestyle modifications or things that can prone them to diseases
