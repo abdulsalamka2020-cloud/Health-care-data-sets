@@ -1,16 +1,15 @@
 # Health-care-data-sets
 ![](https://github.com/abdulsalamka2020-cloud/Health-care-data-sets/blob/main/Healthcare%20excel%20sheets%20folder/2483dec64055ddcf8baa5e2760543d48.jpg)
 
-## Introductiom
+## Introduction
 
 This dataset was given as an assignment by IOTB Tech to practice what has been learned in class.
 
-## Tools Applied
+## Tool Applied
 
 -Excel (Data Cleaning, Pivot Tables, Pivot Charts)
 
 ## Excel sheet folder
-
 ![](https://github.com/abdulsalamka2020-cloud/Health-care-data-sets/blob/main/Healthcare%20excel%20sheets%20folder/healthcare_dataset.xlsx)
 
 ## Problem statements
@@ -32,7 +31,7 @@ This dataset was given as an assignment by IOTB Tech to practice what has been l
 -	Data was transformed into a table format
 -	A new column was created named “Length of Stay” calculated as (Date of Admission - Discharge date)
 -	Pivot tables was created on a new sheet to generate all the answers to the problem statement
--Pivot Charts was created on a new sheet to visualize the results generated from the pivot tables
+- Pivot Charts was created on a new sheet to visualize the results generated from the pivot tables
 
 ## Key Insights, interpretation and observations 
 
