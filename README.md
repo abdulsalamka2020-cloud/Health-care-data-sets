@@ -7,7 +7,7 @@ This dataset was given as an assignment by IOTB Tech to practice what has been l
 
 ## Tool Applied
 
--Excel (Data Cleaning, Pivot Tables, Pivot Charts)
+- Excel (Data Cleaning, Pivot Tables, Pivot Charts)
 
 ## Excel sheet folder
 ![](https://github.com/abdulsalamka2020-cloud/Health-care-data-sets/blob/main/Healthcare%20excel%20sheets%20folder/healthcare_dataset.xlsx)
@@ -29,17 +29,18 @@ This dataset was given as an assignment by IOTB Tech to practice what has been l
 ## Data transformations and problems solving
 
 -	Data was transformed into a table format
+-	The price column was formatted in to a currency (#)
 -	A new column was created named “Length of Stay” calculated as (Date of Admission - Discharge date)
 -	Pivot tables was created on a new sheet to generate all the answers to the problem statement
 - Pivot Charts was created on a new sheet to visualize the results generated from the pivot tables
 
 ## Key Insights, interpretation and observations 
 
--	It was observed that “Diabetes” is the condition that generated the highest revenue, which may indicate that the medical bills for diabetes is higher compared to others or patient diagnose with diabetes is increasing as its is the second most diagnosed medical condition after arthritis
--	Patients of age 38 visited the hospital the most which may be due to various reasons like check-ups, marriage counselling, accidents, sickness e.t.c
+-	It was observed that “Diabetes” is the condition that generated the highest revenue. This may indicate that the medical bills for diabetes is higher compared to others or patient diagnose with diabetes is increasing as its is the second most diagnosed medical condition after arthritis
+-	Patients of age 38 visited the hospital the most. This may be due to various reasons like check-ups, marriage counselling, accidents, sickness e.t.c
 -	Cigna is the insurance provider that contributed the most financially
 -	Elective is the most common admission type
--	Asthma keeps the patients in the hospital the longest, it may be as a result of prevention of urgent attack and others
+-	Asthma keeps the patients in the hospital the longest. It may be as a result of prevention of urgent asthma attack and the location of the patient may be where there is not enough air.
 -	Most prescribed medication is Lipitor; this may be because it is used in curing most medical conditions
 -	Ibuprofen generated the highest revenue, maybe because of high amount, high demands or used in more than one medical condition
 -	Arthritis generated the highest abnormal test result
