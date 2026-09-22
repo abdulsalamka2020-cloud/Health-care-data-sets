@@ -1,9 +1,9 @@
-# Health-care-data-sets
+# Health-care-data-Analysis
 ![](https://github.com/abdulsalamka2020-cloud/Health-care-data-sets/blob/main/Healthcare%20excel%20sheets%20folder/2483dec64055ddcf8baa5e2760543d48.jpg)
 
 ## Introduction
 
-This dataset was given as an assignment by IOTB Tech to practice what has been learned in class.
+This dataset is an excel dashboard created to gain some insights in healthcare analysis .
 
 ## Tool Applied
 
