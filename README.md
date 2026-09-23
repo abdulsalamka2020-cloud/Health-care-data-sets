@@ -304,5 +304,5 @@ Each finding below says what the data shows, then what it could mean. The "what 
 
 ---
 
-*Prepared by Abdulsalam, IOTB Tech Fellowship, Data Analytics track.*
+
 
