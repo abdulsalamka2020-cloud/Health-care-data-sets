@@ -3,8 +3,6 @@
 
 An interactive Excel dashboard that analyses hospital billing and admission records for **54,966 patients** (2019 – 2024). The workbook turns a raw patient dataset into two navigable dashboards, **Billing** and **Admission**, built entirely with Excel tables, pivot tables, pivot charts and slicers.
 
-![Billing Dashboard](/billing_dashboard.png)
-
 ---
 
 ## Table of Contents
